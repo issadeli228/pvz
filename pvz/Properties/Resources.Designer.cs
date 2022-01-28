@@ -63,6 +63,16 @@ namespace pvz.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pea {
+            get {
+                object obj = ResourceManager.GetObject("pea", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap peashooter {
             get {
                 object obj = ResourceManager.GetObject("peashooter", resourceCulture);
@@ -76,6 +86,36 @@ namespace pvz.Properties {
         internal static System.Drawing.Bitmap pvz_field {
             get {
                 object obj = ResourceManager.GetObject("pvz_field", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pvz_game_over_screen {
+            get {
+                object obj = ResourceManager.GetObject("pvz_game_over_screen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pvz_sun_count {
+            get {
+                object obj = ResourceManager.GetObject("pvz_sun_count", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pvz_sunflower {
+            get {
+                object obj = ResourceManager.GetObject("pvz_sunflower", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

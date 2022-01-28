@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace pvz
 {
-    class Peashooter
+    class Sunflower
     {
         public int x, y, size;
 
-        public Peashooter(int _x, int _y, int _size)
+        public Sunflower(int _x, int _y, int _size)
         {
             x = _x;
             y = _y;
